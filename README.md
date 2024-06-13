@@ -1,6 +1,6 @@
 # GomuluProjesi
 
-Grup Üyeleri:
+Group Members:
 - Ece KARAKOÇ
 - Hilal Sevim SAK
 - Karya KORKMAZYİĞİT
