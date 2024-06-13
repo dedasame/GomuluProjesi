@@ -29,4 +29,4 @@ Grup Üyeleri:
 - Bluetooth RX  -> GND with 2.2kΩ and Arduino pin 6 with 1kΩ
 
 
-<img src="Picture.jpg" width =600 height = 600>  
+<img src="Picture.jpg" width =800 height = 600>  
