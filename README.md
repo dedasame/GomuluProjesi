@@ -1,4 +1,4 @@
-# GomuluProjesi
+# GomuluProjesi: Rain Sense
 
 Group Members:
 - Ece KARAKOÇ
